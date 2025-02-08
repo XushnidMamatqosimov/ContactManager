@@ -1,0 +1,21 @@
+***Contact Manager***
+
+Contact(name, surname,phone(unique))
+Project consoledan boshqariladigan bolishi kerak,
+Yangi contact qoshilgandan keyin consolda xabar korsating;
+Contactni ochirganingizdan keyin consolda xabar korsating;
+Agar contact topilmasa "mazgi Contact topilmadi" degan Xabar chiqarsin;
+
+  *** Menu ***
+1. Add Contact;
+     Enter name;
+     Enter surname;
+     Enter phone;
+2. Contact List;
+    return all the elements(name, surname, phone);
+3. Delete Contact;
+     Enter phone;
+4. Search Contact By (name, surname, phone);
+     Enter query;
+5. Exit;
+
