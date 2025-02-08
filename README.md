@@ -1,1 +1,1 @@
-Just Little project focused on increaseing JDBC concepts.
+Just Little project focused on increasing JDBC concepts.
